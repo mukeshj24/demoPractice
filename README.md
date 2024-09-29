@@ -11,3 +11,5 @@ In this github repo i am gonna learn about how to use the git and github
     learn about git readme file uses the HTML language for editing 
   </li>
 </ol>
+
+now i can access this file and do the necessary changes and upload it again  
